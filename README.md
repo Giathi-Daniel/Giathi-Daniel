@@ -3,13 +3,13 @@
 <h3 align="center">A passionate frontend developer from KENYA</h3>
 <img align="right" width="400" alt="my-image" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 🔭 I’m currently working on **AIRTIME-MPESA CONVERTER**
+- 🔭 I’m currently working on **HELB CONSOLE IN C++**
 
-- 🌱 I’m currently learning **C++, JS, React and JAVA**
+- 🌱 I’m currently learning **REACT, JS, BOOTSTRAP 5, PYTHON, GIT & GITHUB**
 
-- 🤝 I’m looking for help with **fronted and c++**
+- 🤝 I’m looking for help with **fronted and python**
 
-- 💬 Ask me about **C++**
+- 💬 Ask me about **C++, HTML, CSS AND JS**
 
 - 📫 How to reach me **giathidaniel252@gmail.com**
 
