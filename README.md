@@ -24,4 +24,3 @@
 
 
 <p align="center"> <img src="github-contribution-grid-snake.svg"></p>
-<p align="center"> <img src="github-contribution-grid-snake.svg"></p>
