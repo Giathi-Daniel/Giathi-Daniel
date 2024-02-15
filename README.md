@@ -3,11 +3,11 @@
 <h3 align="center">A passionate frontend developer from KENYA</h3>
 <img align="right" width="400" alt="my-image" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 🔭 I’m currently working on **HELB CONSOLE IN C++**
+- 🔭 I’m currently working on **100 Days Of Coding**
 
-- 🌱 I’m currently learning **REACT, JS, BOOTSTRAP 5, PYTHON, GIT & GITHUB**
+- 🌱 I’m currently learning **REACT, BOOTSTRAP 5 & PYTHON**
 
-- 🤝 I’m looking for help with **fronted and python**
+- 🤝 I’m looking for help with **react & python**
 
 - 💬 Ask me about **C++, HTML, CSS AND JS**
 
