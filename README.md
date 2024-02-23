@@ -81,8 +81,6 @@
         <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="Vs Code" />
       <br>Vs Code
     </td>
-  </tr>
-   <tr>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" />
       <br>Java
