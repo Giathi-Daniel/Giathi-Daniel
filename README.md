@@ -14,7 +14,7 @@
       <br>C#
     </td>
     <td align="center" width="96">
-        <img src="[https://skillicons.dev/icons?i=c" alt="icon" width="65" height="65" />
+        <img src="https://skillicons.dev/icons?i=c" alt="icon" width="65" height="65" />
       <br>C
     </td>
     <td align="center" width="96">
@@ -23,7 +23,7 @@
     </td>
     <td align="center"  width="96">
         <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
-      <br>HTML
+      <br><br> HTML
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
