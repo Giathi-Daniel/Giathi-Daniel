@@ -15,10 +15,8 @@
 
 <h3 align="left">## 🌐 Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/https://www.linkedin.com/in/daniel-giathi-125691250/" target="blank"><img align="center"   src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/daniel-giathi-125691250/" height="30" width="40" /></a>
-  <a href="https://discord.com/channels/@me/1195041521007874139/" target="blank"><img align="center" src="discord.png"alt="https://www.discord.com/@me/" height="40" width="40" /></a>
-  ## 🌐 Connect with me:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/FRggXmHnfx) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/codenameimmy) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohdimran1995) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/codenameimmy) 
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/channels/@me/1195041521007874139/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/daniel-giathi-125691250/) 
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
