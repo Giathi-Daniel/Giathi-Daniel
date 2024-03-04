@@ -95,6 +95,10 @@
 ## 🌐 Connect with me:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/channels/@me/1195041521007874139/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/daniel-giathi-125691250/) 
+
+
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Giathi-Daniel&show_icons=true&locale=en&layout=compact" alt="Giathi-Daniel" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=Giathi-Daniel&show_icons=true&locale=en" alt="Giathi-Daniel" />
+
 
 <p align="center"> <img src="github-contribution-grid-snake.svg"></p>
