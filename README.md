@@ -98,7 +98,9 @@
 
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Giathi-Daniel&show_icons=true&locale=en&layout=compact" alt="Giathi-Daniel" />
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=Giathi-Daniel&show_icons=true&locale=en" alt="Giathi-Daniel" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Giathi-Daniel&show_icons=true&locale=en" style="width: 20" height="40" alt="Giathi-Daniel" />
+<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Giathi-Daniel" alt="Giathi-Daniel" />
+
 
 
 <p align="center"> <img src="github-contribution-grid-snake.svg"></p>
