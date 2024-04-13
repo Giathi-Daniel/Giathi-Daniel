@@ -92,7 +92,6 @@
 </table>
 
 - 📫 How to reach me
-Hello World
  **giathidaniel252@gmail.com**
 
 ## 🌐 Connect with me:
