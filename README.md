@@ -6,8 +6,10 @@
 
 ## My favorite tools and technologies ⚙️ 
 
-> Tools and technologies that I have worked with and am interested in
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" align="center" width="90" >
+<div display="flex" gap="1rem">
+  <span> > Tools and technologies that I have worked with and am interested in</span>
+  <span><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" align="center" width="90" ></span>
+</div>
 <table>
   <tr>
     <td align="center" width="96">
