@@ -5,7 +5,7 @@
 <!-- <img align="left" width="400" alt="my-image" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"> -->
 
 ## My favorite tools and technologies ⚙️
-
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100">
 > Tools and technologies that I have worked with and am interested in
 
 <table>
