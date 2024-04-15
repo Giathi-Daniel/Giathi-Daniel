@@ -3,9 +3,8 @@
 <h3 align="center">A passionate full-stack developer from KENYA</h3>
 <hr height="1px" />
 <!-- <img align="left" width="400" alt="my-image" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"> -->
-
-## My favorite tools and technologies ⚙️
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100">
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100" align="center">
+## My favorite tools and technologies ⚙️ 
 > Tools and technologies that I have worked with and am interested in
 
 <table>
