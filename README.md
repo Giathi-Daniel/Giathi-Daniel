@@ -6,7 +6,6 @@
 <!-- <img align="left" width="400" alt="my-image" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"> -->
 
 <h1>My favorite tools and technologies ⚙️</h1>
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 <div display="flex" gap="1rem">
   <span> > Tools and technologies that I have worked with and am interested in</span>
@@ -97,10 +96,10 @@
 
 - 📫 How to reach me
  **giathidaniel252@gmail.com**
-
-## 🌐 Connect with me:
 <!--📏LINE-->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+## 🌐 Connect with me:
 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/channels/@me/1195041521007874139/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/daniel-giathi-125691250/) 
