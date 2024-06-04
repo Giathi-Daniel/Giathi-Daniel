@@ -95,7 +95,7 @@
 </table>
 
 - 📫 How to reach me
- **giathidaniel252@gmail.com**
+ **blacksharkchi@proton.me**
 <!--📏LINE-->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
