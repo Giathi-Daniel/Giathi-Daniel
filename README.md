@@ -105,3 +105,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/daniel-giathi-125691250/) 
 <!--<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Giathi-Daniel&show_icons=true&locale=en&layout=compact" alt="Giathi-Daniel" />-->
 <p align="left"> <img src="github-contribution-grid-snake.svg"></p>
+
+<div align="center">
+  <h4>Profile Views</h4>
+  <img src="https://profile-counter.glitch.me/Giathi-Daniel/count.svg?"  />
+</div>
