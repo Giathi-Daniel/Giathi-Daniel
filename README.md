@@ -49,6 +49,10 @@
         <img src="https://skillicons.dev/icons?i=gitlab" width="48" height="48" alt="GitLab" />
       <br>GitLab
     </td>
+    <td align="center"  width="96">
+        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="48" height="48" alt="GitLab" />
+      <br>MongoDB
+    </td>
   </tr>
   <tr>
     <td align="center" width="96">
