@@ -50,7 +50,7 @@
       <br>GitLab
     </td>
     <td align="center"  width="96">
-        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="48" height="48" alt="GitLab" />
+        <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="GitLab" />
       <br>MongoDB
     </td>
   </tr>
@@ -78,7 +78,7 @@
       <br>PostgreSQL
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="Git" />
+        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="48" height="48" alt="Git" />
       <br>MySQL
     </td>
     <td align="center" width="96">
