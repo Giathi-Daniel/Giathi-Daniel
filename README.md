@@ -74,6 +74,10 @@
       <br>PostgreSQL
     </td>
     <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="Git" />
+      <br>MySQL
+    </td>
+    <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
       <br>Linux
     </td>
