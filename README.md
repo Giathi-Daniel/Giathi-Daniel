@@ -1,6 +1,6 @@
 <!--[![MasterHead](https://usa.bootcampcdn.com/wp-content/uploads/sites/108/2021/03/CDG_blog_post_image_02-2-850x412.jpg)-->
 <h1 align="center">Hello there! 👋, I am DANIEL GIATHI</h1>
-<h3 align="center">A passionate frontend developer from KENYA</h3>
+<!-- <h3 align="center">A passionate frontend developer from KENYA</h3> -->
 <!--📏LINE-->
 <!-- <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%"> -->
 <!-- <img align="left" width="400" alt="my-image" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"> -->
