@@ -2,10 +2,10 @@
 <h1 align="center">Hello there! 👋, I am DANIEL GIATHI</h1>
 <h3 align="center">A passionate frontend developer from KENYA</h3>
 <!--📏LINE-->
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+<!-- <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%"> -->
 <!-- <img align="left" width="400" alt="my-image" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"> -->
 
-<h1>My favorite tools and technologies ⚙️</h1>
+<!--<h1>My favorite tools and technologies ⚙️</h1>
 
 <div display="flex" gap="1rem">
   <span> > Tools and technologies that I have worked with and am interested in</span>
@@ -101,7 +101,7 @@
  <tr>
  </tr>
 </table>
-
+-->
 - 📫 How to reach me
  **blacksharkchi@proton.me**
 <!--📏LINE-->
