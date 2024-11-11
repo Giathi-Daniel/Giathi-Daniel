@@ -8,6 +8,7 @@
   out via my social profiles.
 </p>
 
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 <div display="flex" gap="1rem">
   <span> > My Tech Stack </span>
   <span><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" align="center" width="90" ></span>
@@ -71,8 +72,6 @@
     </td>
  </tr>
 </table>
-
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 - 📫 How to reach me
  **blacksharkchi@proton.me**
