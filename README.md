@@ -4,7 +4,7 @@
   I'm a passionate Fullstack Developer with experience in both frontend and backend development. I've worked on various freelance projects, building dynamic and scalable web      applications.
 </p>
 <p>
-  I am always open to collaborating on open-source projects and contributing to the developer community. If you're interested in working together or want to chat, please reach 
+  I am always open to collaborating on open-source projects and contributing to the developer community. If you're interested in working together, please reach 
   out via my social profiles.
 </p>
 
