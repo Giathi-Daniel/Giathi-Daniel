@@ -1,7 +1,12 @@
 <!--[![MasterHead](https://usa.bootcampcdn.com/wp-content/uploads/sites/108/2021/03/CDG_blog_post_image_02-2-850x412.jpg)-->
 <h1 align="center">Hello there! 👋, I am DANIEL GIATHI</h1>
-<p>I'm Daniel Giathi, a fullstack developer and I've working on frontend, backend and fullstack projects as a freelance</p>
-<p>I am open to work on open source projects. Feel free to reach me via my socials</p>
+<p>
+  I'm a passionate Fullstack Developer with experience in both frontend and backend development. I've worked on various freelance projects, building dynamic and scalable web      applications.
+</p>
+<p>
+  I am always open to collaborating on open-source projects and contributing to the developer community. If you're interested in working together or want to chat, please reach 
+  out via my social profiles.
+</p>
 
 <div display="flex" gap="1rem">
   <span> > My Tech Stack </span>
