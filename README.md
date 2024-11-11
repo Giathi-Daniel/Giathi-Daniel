@@ -48,12 +48,16 @@
         <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="GitLab" />
       <br>MongoDB
     </td>
-     <td align="center" width="96">
+  </tr>
+ <tr>
+   <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="jquery" />
       <br>PostgreSQL
     </td>
-  </tr>
- <tr>
+   <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=firebase" width="48" height="48" alt="firebase" />
+      <br>Firebase
+    </td>
     <td align="center" width="96">
       <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="48" height="48" />
       <br>C++
