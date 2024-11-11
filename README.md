@@ -1,18 +1,14 @@
 <!--[![MasterHead](https://usa.bootcampcdn.com/wp-content/uploads/sites/108/2021/03/CDG_blog_post_image_02-2-850x412.jpg)-->
 <h1 align="center">Hello there! 👋, I am DANIEL GIATHI</h1>
-<!-- <h3 align="center">A passionate frontend developer from KENYA</h3> -->
-<!-- 📏LINE -->
-<!-- <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%"> -->
-<!-- <img align="left" width="400" alt="my-image" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"> -->
+<p>I'm Daniel Giathi, a fullstack developer and I've working on frontend, backend and fullstack projects as a freelance</p>
+<p>I am open to work on open source projects. Feel free to reach me via my socials</p>
 
 <div display="flex" gap="1rem">
   <span> > My Tech Stack </span>
   <span><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" align="center" width="90" ></span>
 </div>
+
 <table>
-  HTML, CSS, Tailwind CSS, Bootstrap, MUI, JS, React, Python, MongoDB, MySQL, PostgreSQL, Firebase, Node.Js, C++, Git, Data Science
-
-
   <tr>
     <td align="center"  width="96">
         <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
