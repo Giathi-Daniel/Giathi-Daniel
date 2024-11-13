@@ -75,7 +75,7 @@
     </table>
   </div>
 
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=Giathi-Daniel&theme=dark)](https://git.io/streak-stats)
+    [![GitHub Streak](https://streak-stats.demolab.com/?user=Giathi-Daniel&theme=dark)](https://git.io/streak-stats)
 </section>
 
 - 📫 How to reach me
