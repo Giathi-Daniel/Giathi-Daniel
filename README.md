@@ -9,71 +9,74 @@
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-<div display="flex" gap="1rem">
-  <span> > My Tech Stack </span>
-  <span><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" align="center" width="90" ></span>
-</div>
+<section style=" display: grid; grid-template-columns: repeat(autofit, minamx(300px, 300px)">
+  <div>
+    <div display="flex" gap="1rem">
+      <span> > My Tech Stack </span>
+      <span><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" align="center" width="90" ></span>
+    </div>
+    <table>
+      <tr>
+        <td align="center"  width="96">
+            <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
+          <br>HTML
+        </td>
+        <td align="center" width="96">
+            <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
+          <br>CSS
+        </td>
+        <td align="center" width="96">
+            <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="tailwind" />
+          <br>Tailwind
+        </td>
+        <td align="center"  width="96">
+            <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="bootstrap" />
+          <br>Bootstrap
+        </td>
+      </tr>
+      <tr>
+        <td align="center" width="96">
+            <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="48" height="48" />
+          <br>Javascript
+        </td>
+        <td align="center" width="96">
+            <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="48" height="48" />
+          <br>React
+        </td>
+        <td align="center" width="96">
+          <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="48" height="48" alt="Git" />
+          <br>MySQL
+        </td>
+        <td align="center"  width="96">
+            <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="GitLab" />
+          <br>MongoDB
+        </td>
+      </tr>
+     <tr>
+       <td align="center" width="96">
+            <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="jquery" />
+          <br>PostgreSQL
+        </td>
+       <td align="center" width="96">
+            <img src="https://skillicons.dev/icons?i=firebase" width="48" height="48" alt="firebase" />
+          <br>Firebase
+        </td>
+        <td align="center" width="96">
+          <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="48" height="48" />
+          <br>C++
+        </td>
+        <td align="center" width="96">
+          <a href="#macropower-tech">
+            <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="48" height="48" />
+          </a>
+          <br>Python
+        </td>
+     </tr>
+    </table>
+  </div>
 
-<table>
-  <tr>
-    <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
-      <br>HTML
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
-      <br>CSS
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="tailwind" />
-      <br>Tailwind
-    </td>
-    <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="bootstrap" />
-      <br>Bootstrap
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="48" height="48" />
-      <br>Javascript
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="48" height="48" />
-      <br>React
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="48" height="48" alt="Git" />
-      <br>MySQL
-    </td>
-    <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="GitLab" />
-      <br>MongoDB
-    </td>
-  </tr>
- <tr>
-   <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="jquery" />
-      <br>PostgreSQL
-    </td>
-   <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=firebase" width="48" height="48" alt="firebase" />
-      <br>Firebase
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="48" height="48" />
-      <br>C++
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="48" height="48" />
-      </a>
-      <br>Python
-    </td>
- </tr>
-</table>
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Giathi-Daniel&theme=dark)](https://git.io/streak-stats)
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=Giathi-Daniel&theme=dark)](https://git.io/streak-stats)
+</section>
 
 - 📫 How to reach me
  **blacksharkchi@proton.me**
