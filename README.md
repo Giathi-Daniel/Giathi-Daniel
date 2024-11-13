@@ -73,6 +73,8 @@
  </tr>
 </table>
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Giathi-Daniel&theme=dark)](https://git.io/streak-stats)
+
 - 📫 How to reach me
  **blacksharkchi@proton.me**
 <!--📏LINE-->
