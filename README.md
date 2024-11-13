@@ -9,7 +9,7 @@
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-<section style="display: grid; grid-template-columns: repeat(auto-fit, minmax(100px, 1fr));">
+<section style="display: flex; gap: 1rem;">
   <div>
     <div display="flex" gap="1rem">
       <span> > My Tech Stack </span>
