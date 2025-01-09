@@ -4,7 +4,7 @@
 <br />
 💼 Open To Job Opportunities
 <br />
-🌎 blacksharkchi@proton.me
+🌎 Nairobi, Kenya
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 <section style="display: flex; gap: 1rem;">
