@@ -1,12 +1,8 @@
 <!--[![MasterHead](https://usa.bootcampcdn.com/wp-content/uploads/sites/108/2021/03/CDG_blog_post_image_02-2-850x412.jpg)-->
 <h1 align="center">Hello there! 👋, I am DANIEL GIATHI</h1>
-<p>
-  I'm a passionate Fullstack Developer with experience in both frontend and backend development. I've worked on various freelance projects, building dynamic and scalable web      applications.
-</p>
-<p>
-  I am always open to collaborating on open-source projects and contributing to the developer community. If you're interested in working together, please reach 
-  out via my social profiles.
-</p>
+👨‍💻 FullStack Developer
+💼 Open To Job Opportunities
+🌎 blacksharkchi@proton.me
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 <section style="display: flex; gap: 1rem;">
