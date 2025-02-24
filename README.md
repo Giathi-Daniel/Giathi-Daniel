@@ -1,4 +1,5 @@
-<!--[![MasterHead](https://usa.bootcampcdn.com/wp-content/uploads/sites/108/2021/03/CDG_blog_post_image_02-2-850x412.jpg)-->
+[![MasterHead](https://usa.bootcampcdn.com/wp-content/uploads/sites/108/2021/03/CDG_blog_post_image_02-2-850x412.jpg)-
+
 <h1 align="center">Hello there! 👋, I am DANIEL GIATHI</h1>
 👨‍💻 FullStack Developer
 <br />
