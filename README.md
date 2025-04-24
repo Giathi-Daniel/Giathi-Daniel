@@ -1,4 +1,4 @@
-
+```
  _______    ______   __    __  ______  ________  __               ______   ______   ______  ________  __    __  ______ 
 |       \  /      \ |  \  |  \|      \|        \|  \             /      \ |      \ /      \|        \|  \  |  \|      \
 | $$$$$$$\|  $$$$$$\| $$\ | $$ \$$$$$$| $$$$$$$$| $$            |  $$$$$$\ \$$$$$$|  $$$$$$\\$$$$$$$$| $$  | $$ \$$$$$$
@@ -10,7 +10,7 @@
  \$$$$$$$  \$$   \$$ \$$   \$$ \$$$$$$ \$$$$$$$$ \$$$$$$$$        \$$$$$$  \$$$$$$ \$$   \$$   \$$    \$$   \$$ \$$$$$$
                                                                                                                        
                                                                                                                        
-                                                                                                                                                                                                                                                                                                                                                             
+```                                                                                                                                                                                                                                                                                                                                                             
 
 <p align="center">
   I'm a frontend web developer based in Nairobi, Kenya. I specialize in building fast, scalable websites using <strong>TypeScript</strong>, <strong>React</strong>, and <strong>Next.js</strong>, with robust <strong>Node.js</strong> backends.
