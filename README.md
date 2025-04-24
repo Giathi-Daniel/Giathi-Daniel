@@ -1,84 +1,36 @@
-<h1 style="text-content:center">Hello there! 👋, I am DANIEL GIATHI</h1>
-👨‍💻 FullStack Developer
-<br />
-💼 Open To Job Opportunities
-<br />
-🌎 Nairobi, Kenya
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Giathi-Daniel/Giathi-Daniel/main/badges/release.svg">
+  <img src="https://raw.githubusercontent.com/Giathi-Daniel/Giathi-Daniel/main/badges/size.svg">
+  <img src="https://raw.githubusercontent.com/Giathi-Daniel/Giathi-Daniel/main/badges/vulnerabilities.svg">
+  <img src="https://raw.githubusercontent.com/Giathi-Daniel/Giathi-Daniel/main/badges/quality.svg">
+</p>
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-<section style="display: flex; gap: 1rem;">
-  <div>
-    <div display="flex" gap="1rem">
-      <span> > My Tech Stack </span>
-      <span><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" align="center" width="90" ></span>
-    </div>
-    <table>
-      <tr>
-        <td align="center"  width="96">
-            <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
-          <br>HTML
-        </td>
-        <td align="center" width="96">
-            <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
-          <br>CSS
-        </td>
-        <td align="center" width="96">
-            <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="tailwind" />
-          <br>Tailwind
-        </td>
-        <td align="center"  width="96">
-            <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="bootstrap" />
-          <br>Bootstrap
-        </td>
-      </tr>
-      <tr>
-        <td align="center" width="96">
-            <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="48" height="48" />
-          <br>Javascript
-        </td>
-        <td align="center" width="96">
-            <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="48" height="48" />
-          <br>React
-        </td>
-        <td align="center" width="96">
-          <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="48" height="48" alt="Git" />
-          <br>MySQL
-        </td>
-        <td align="center"  width="96">
-            <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="GitLab" />
-          <br>MongoDB
-        </td>
-      </tr>
-     <tr>
-       <td align="center" width="96">
-            <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="jquery" />
-          <br>PostgreSQL
-        </td>
-       <td align="center" width="96">
-            <img src="https://skillicons.dev/icons?i=firebase" width="48" height="48" alt="firebase" />
-          <br>Firebase
-        </td>
-        <td align="center" width="96">
-          <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="48" height="48" />
-          <br>C++
-        </td>
-        <td align="center" width="96">
-          <a href="#macropower-tech">
-            <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="48" height="48" />
-          </a>
-          <br>Python
-        </td>
-     </tr>
-    </table>
-  </div>
+---
 
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=Giathi-Daniel&theme=dark)](https://git.io/streak-stats)
-</section>
+```plaintext
+$ npx @giathi-daniel/cli
+⸨░░░░░░░░⠂⠂⠂⠂⠂⠂⸩ ⠴ fetchMetadata: resolveWithNewModule @giathi-daniel/cli@1.0.0
 
-- 📫 How to reach me
- **blacksharkchi@proton.me**
-<!--📏LINE-->
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+     
+          _    _     _   _   ___    _   _   ___   ___   _   _   _     
+    | |  | |   /_\ | | |   \  | | | | / _ \ |   \ | | | | | |    
+    | |__| |  / _ \| |_| |) | | |_| || (_) || |) || |_| |_| |    
+    |____|_| /_/ \_\___|___/   \___/  \___/ |___/  \___/(_)_|    
+                                                                
+               ____ ___ ___ _____ _   _ ___ _     _             
+              |_  /|_ _| _ \_   _| | | | __| |   | |            
+               / /  | ||   / | | | |_| | _|| |__ |_|            
+              /___|___|_|_\ |_|  \___/|___|____|(_)
+
+
+           Tech Enthusiast • Nairobi • Kenya
+
+❯ 🏡 Website           giathi-daniel.github.io (coming soon)
+❯ 📬 Email             giathidaniel252@gmail.com
+❯ 💾 GitHub            github.com/Giathi-Daniel
+
+
+```
 
 ## 🌐 Connect with me:
 
