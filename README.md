@@ -13,7 +13,7 @@
 ```                                                                                                                                                                                                                                                                                                                                                             
 
 <p align="center">
-  I'm a web developer based in Nairobi, Kenya, with 3+ years of experience building responsive, scalable web applications. I focus on modern frontend tools  
+  I'm a web developer based in Nairobi, Kenya, with 4+ years of experience building responsive, scalable web applications. I focus on modern frontend tools  
   like <strong>React</strong> and <strong>TypeScript</strong>, with practical backend skills   
   in <strong>Node.js</strong>, <strong>Firebase</strong>, and <Strong>SQL/NoSQL</Strong> databases. I am an aspiring <strong>WordPress</strong> developer.
 </p>
