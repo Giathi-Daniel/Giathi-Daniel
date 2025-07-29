@@ -19,7 +19,7 @@
 </p>
 
 ---
-
+<!--
 ### 🔧 What I Do
 
 - Develop interactive UIs with React, TypeScript, and Angular  
@@ -29,7 +29,7 @@
 - Focus on clean code, performance, and scalability  
 
 ---
-
+-->
 
 ### 🌍 About Me
 
