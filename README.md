@@ -38,12 +38,6 @@
 - ❯ 📬 Email: [giathidaniel252@gmail.com](mailto:giathidaniel252@gmail.com)  
 - ❯ 💾 GitHub: [github.com/Giathi-Daniel](https://github.com/Giathi-Daniel)  
 
----
-
-### 🌐 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/daniel-giathi-125691250/)
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/1195041521007874139/)
 
 ---
 
