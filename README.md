@@ -28,7 +28,6 @@
 - Focus on clean code, performance, and scalability  
 
 ---
--->
 
 ### 🌍 About Me
 
