@@ -19,7 +19,7 @@
 </p>
 
 ---
-<!--
+_<!--
 ### 🔧 What I Do
 
 - Develop interactive UIs with React, TypeScript, and Angular  
