@@ -18,6 +18,8 @@
   in <strong>Node.js</strong>, <strong>Firebase</strong>, and <Strong>SQL/NoSQL</Strong> databases. I am an aspiring <strong>WordPress</strong> developer.
 </p>
 
+<!--
+
 ---
 ### 🔧 What I Do
 
@@ -28,6 +30,7 @@
 - Focus on clean code, performance, and scalability  
 
 ---
+-->
 
 ### 🌍 About Me
 
