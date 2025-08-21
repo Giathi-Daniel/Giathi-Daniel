@@ -21,7 +21,8 @@
 
 ### ⚡ Did you know?
 
-> The first commit in GitHub was made on February 8, 2008, by Tom Preston-Wheeler, a developer at GitHub. The commit message read: "initial commit of the github project".
+> The first commit in GitHub was made to the repository mojombo/grit on on February 8, 2008, by Tom Preston-Wheeler,
+> a developer at GitHub. The commit message read: "initial commit of the github > project".
 > This small commit marked the beginning of a platform that would revolutionize the way developers collaborate and share code.
 
 
