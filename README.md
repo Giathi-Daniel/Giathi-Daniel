@@ -19,6 +19,10 @@
 
 ---
 
-### ⚡ Fun Fact
+### ⚡ Did you know?
 
-> I still think semicolons deserve more respect; fight me.         
+> The first commit in GitHub was made on February 8, 2008, by Tom Preston-Wheeler, a developer at GitHub. The commit message read: "initial commit of the github project".
+> This small commit marked the beginning of a platform that would revolutionize the way developers collaborate and share code.
+
+
+      
