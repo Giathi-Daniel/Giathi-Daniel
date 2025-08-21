@@ -10,15 +10,17 @@
  \$$$$$$$  \$$   \$$ \$$   \$$ \$$$$$$ \$$$$$$$$ \$$$$$$$$        \$$$$$$  \$$$$$$ \$$   \$$   \$$    \$$   \$$ \$$$$$$
                                                                                                                        
                                                                                                                        
-```                                                                                                                                                                                                                                                                                                                                                             
+```
+                                                                                                                                         
 
-<p align="center">
+<!-- <p align="center">
   I'm a web developer based in Nairobi, Kenya, with 4+ years of experience building responsive, scalable web applications. I focus on modern frontend tools  
   like <strong>React</strong> and <strong>TypeScript</strong>, with practical backend skills   
   in <strong>Node.js</strong>, <strong>Firebase</strong>, and <Strong>SQL/NoSQL</Strong> databases. I am an aspiring <strong>WordPress</strong> developer.
+ I am a web developer who loves
 </p>
 
-<!--
+
 
 ---
 ### 🔧 What I Do
@@ -30,9 +32,9 @@
 - Focus on clean code, performance, and scalability  
 
 ---
--->
 
-### 🌍 About Me
+
+<!-- ### 🌍 About Me
 
 
 - ❯ 🏡 Website: [giathi-daniel.github.io](https://giathi-daniel.github.io) (coming soon)  
@@ -41,11 +43,12 @@
 
 
 ---
+-->
 
 ### 📈 My GitHub Stats
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Giathi-Daniel&show_icons=true&theme=radical)
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Giathi-Daniel&layout=compact&theme=radical) -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Giathi-Daniel&layout=compact&theme=radical) 
 
 ---
 
