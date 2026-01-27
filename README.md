@@ -12,10 +12,10 @@
                                                                                                                        
 ```                                                                                                                 
 
-<!--| Stats |  Languages |
+| Stats |  Languages |
 | --------------- | --------------- |
 | ![Daniel Giathi's GitHub Stats](https://blakedrumm-github-readme-stats.vercel.app/api?username=Giathi-Daniel&show_icons=true&include_all_commits=true&count_private=true&theme=vue-dark) | ![Giathi Daniel's Top Languages](https://blakedrumm-github-readme-stats.vercel.app/api/top-langs/?username=Giathi-Daniel&layout=compact&theme=vue-dark) |
--->
+
 ---
 
 ### ⚡ Did you know?
