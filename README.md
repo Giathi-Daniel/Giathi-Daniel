@@ -18,6 +18,13 @@
 
 ---
 
+## 🔥 Activity
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Giathi-Daniel&theme=tokyonight" alt="Giathi-Daniel" />
+</div>
+
+---
+
 ### ⚡ Did you know?
 
 > The first commit in GitHub was made to the repository mojombo/grit on on February 8, 2008, by Tom Preston-Wheeler,
